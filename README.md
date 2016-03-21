@@ -1,1 +1,0 @@
-# device_generic_x86_64
